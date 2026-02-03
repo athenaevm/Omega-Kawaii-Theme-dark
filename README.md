@@ -1,4 +1,4 @@
-# Omega Kawaii Theme
+# Omega Kawaii Theme Dark
 
 To use this theme, add `THEME_NAME` and `THEME_REPO` arguments to your `make` command:
 ```bash
