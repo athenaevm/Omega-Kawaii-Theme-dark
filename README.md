@@ -2,6 +2,6 @@
 
 To use this theme, add `THEME_NAME` and `THEME_REPO` arguments to your `make` command:
 ```bash
-$ make THEME_NAME=omega_kawaii THEME_REPO=https://github.com/Omega-Numworks-Prod/Omega-Kawaii-Theme
+$ make THEME_NAME=omega_kawaii THEME_REPO=https://github.com/athenaevm/Omega-Kawaii-Theme-dark
 ```
 Credits to https://github.com/Psi-Prod/Omega-Kawaii-Theme by Psi-Prod and https://github.com/Ratakor/Omega-Dracula-Theme by Ratakor.
